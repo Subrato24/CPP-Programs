@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"hello"<<endl;
+    char name[] = {'S','U','B','R','A','T','O'};
+    cout<<name<<endl;
 }
